@@ -59,5 +59,9 @@ Programming Foundations Object Oriented Design
 * Some languages like C++ and Python allow you to inherit from multiple Superclasses, but can be confusing
 * Java, Ruby, and others enforce Single Inheritance
 * There are multiple forms of Polymorphism.
- * Dynamic Polymorphism uses the same interface for methods on different types of objects.
+ * Dynamic Polymorphism uses the same interface for methods on different types of objects by overriding methods for unique instances
+ * Static polymorphism uses a method overload on the parameters
  * Create an abstract class, implement an interface in multiple classes, or override inherited methods
+* Unified Modeling Language (UML) Standardized notation for diagrams to visualize object-oriented systems
+ * Class diagram: Name, attributes, behaviors
+ * class, component, deployment, use case, other diagrams
