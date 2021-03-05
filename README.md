@@ -52,3 +52,9 @@ Programming Foundations Object Oriented Design
  * We would rather not have to change a lot when making big changes, so we should encapsulate when possible.
 
 * Inheritance allows a new class to receive or inherit the attributes or methods of existing methods using the same implementation for code reuse
+* A bakery app can have customer and employee classes, sharing some properties like name, phone, address, etc.
+ * We could create a person class with common attributes and methods, then customer and employee can inherit from person class
+ * Parent / Base / Superclass Class is Person
+ * Subclass / Child Class Customer, Employee
+* Some languages like C++ and Python allow you to inherit from multiple Superclasses, but can be confusing
+* Java, Ruby, and others enforce Single Inheritance
