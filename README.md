@@ -65,3 +65,16 @@ Programming Foundations Object Oriented Design
 * Unified Modeling Language (UML) Standardized notation for diagrams to visualize object-oriented systems
  * Class diagram: Name, attributes, behaviors
  * class, component, deployment, use case, other diagrams
+
+* Functional requirements list what the app should do, with no object oriented design yet
+* Non-functional requirements list attributes that are not functionality related, but should only describe essentials
+* FURPS - Functionality Usability Reliability Performance Supportability
+ * Functionality: Capability, Resuability, Security
+ * Usability: Human Factors, Aesthetics, Consistency, Documentation
+ * Reliability: Availability, Failure Rate & Duration, Predictability
+ * Performance: Speed, Efficiency, Resource Consmumption, Scalability
+ * Supportability: Testability, Estensibility, Serviceability, Configurability
+ * Design
+ * Implementation
+ * Interface (external system)
+ * Physical
