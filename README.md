@@ -58,3 +58,6 @@ Programming Foundations Object Oriented Design
  * Subclass / Child Class Customer, Employee
 * Some languages like C++ and Python allow you to inherit from multiple Superclasses, but can be confusing
 * Java, Ruby, and others enforce Single Inheritance
+* There are multiple forms of Polymorphism.
+ * Dynamic Polymorphism uses the same interface for methods on different types of objects.
+ * Create an abstract class, implement an interface in multiple classes, or override inherited methods
