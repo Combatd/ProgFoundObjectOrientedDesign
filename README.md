@@ -35,3 +35,13 @@ Programming Foundations Object Oriented Design
  * They can only access data that is known to the object
 * Instances are objects made from a class
 * Most Object-Oriented Languages come with provided classes, such as string, integer, etc.
+* Four fundamental concepts in Object-Oriented Programming with classes
+ * Abstraction
+ * Polymorphism
+ * Inheritance
+ * Encapsulation
+* A person class is abstract. If you describe a person, it doesn't have to be any particular person.
+ * We can discuss essential attributes, like name, height, and gender without referring to a specific person object.
+ * The attributes of the Person class are abstracted, not caring about what exact values of the attributes of Person objects.
+ * If a certain attribute, like weight, is not needed for the application, then we can leave it out of Person class. 
+ * The attributes of the Person class are abstracted, not caring about what exact values of the attributes on each Person instance
