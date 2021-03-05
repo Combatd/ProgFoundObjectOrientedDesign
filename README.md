@@ -24,3 +24,14 @@ Programming Foundations Object Oriented Design
  * Attributes: color, size, weight, brand...
  * Objects can be any sort of noun.
   * Things, people, places, ideas...
+* Objects are created by classes
+* A class is a code-template for creating (instantiating) objects.
+ * Different classes can create different objects.
+* The class always comes first.
+* Classes have a name, attributes to describe an object to be created, and behaviors for what the object can do
+* Sometimes referred to as type (name), properties, data (attributes), and operations (behaviors)
+* A method is a block of code or procedure that can return a value
+* Methods are basically functions, but they are defined as part of a class.
+ * They can only access data that is known to the object
+* Instances are objects made from a class
+* Most Object-Oriented Languages come with provided classes, such as string, integer, etc.
