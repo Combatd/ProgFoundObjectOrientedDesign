@@ -50,3 +50,5 @@ Programming Foundations Object Oriented Design
  * You don't need to know everything about a cell phone internally in order to use it
  * We want to reduce dependencies on a single part of the application...
  * We would rather not have to change a lot when making big changes, so we should encapsulate when possible.
+
+* Inheritance allows a new class to receive or inherit the attributes or methods of existing methods using the same implementation for code reuse
