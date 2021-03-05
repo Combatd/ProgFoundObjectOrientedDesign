@@ -45,3 +45,8 @@ Programming Foundations Object Oriented Design
  * The attributes of the Person class are abstracted, not caring about what exact values of the attributes of Person objects.
  * If a certain attribute, like weight, is not needed for the application, then we can leave it out of Person class. 
  * The attributes of the Person class are abstracted, not caring about what exact values of the attributes on each Person instance
+* With encapsulation, an object should not make anything about itself available except when necessary to make the application work
+ * Black Box Testing: close off things on a class/object to only reveal specific inputs and outputs
+ * You don't need to know everything about a cell phone internally in order to use it
+ * We want to reduce dependencies on a single part of the application...
+ * We would rather not have to change a lot when making big changes, so we should encapsulate when possible.
